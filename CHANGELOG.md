@@ -1,4 +1,10 @@
 # Changelog
+## 0.1.1 — 2026-11-03
+- Fix a low-severity provider JSON exception that could abort optional CLI experiments.
+- Sanitize excessive JSON nesting at both decoding sites without retrying malformed output.
+- Add nine provider/representation regression cases and a CLI failure-persistence check.
+- Record the separate native security audit and refresh actual synthetic outputs for the patched source.
+
 ## 0.1.0 — 2026-11-03
 - Initial independent release of WeakStrong Oversight Lab.
 - Synthetic dataset, deterministic experiments, optional bounded JSON model adapters.

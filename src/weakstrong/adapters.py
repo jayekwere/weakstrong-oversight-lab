@@ -201,6 +201,6 @@ class HTTPModel:
             except httpx.TransportError:
                 if attempt == cfg.retries:
                     raise ProviderError("provider unavailable after bounded retries") from None
-            except (KeyError, IndexError, TypeError, ValueError, AttributeError):
+            except (KeyError, IndexError, TypeError, ValueError, AttributeError, RecursionError):
                 raise ProviderError("invalid structured provider response") from None
         raise ProviderError("unreachable provider state")

@@ -32,7 +32,7 @@ class RunRecord(StrictModel):
     schema_version: str = "1.0"
     metadata: dict[str, Any] = Field(
         default_factory=lambda: {
-            "software_version": "0.1.0",
+            "software_version": "0.1.1",
             "python_version": platform.python_version(),
             "dataset_version": "1",
             "source_sha256": hashlib.sha256(
