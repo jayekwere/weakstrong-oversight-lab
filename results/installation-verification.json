@@ -1,0 +1,11 @@
+{
+  "repository": "weakstrong-oversight-lab",
+  "mode": "deterministic-simulation",
+  "rows": 720,
+  "dataset_sha256": "3c57dffd5bbc71562a83a0f30f1d6ab579419b3c010a79e46b28a2459e4bb645",
+  "source_sha256": "2d3621aa6437cf6e8872cc56dd8a0f1e469877bfb8949d36af2308501766c1d1",
+  "clean_wheel_install": true,
+  "hashed_runtime_install": true,
+  "exact_observations_reproduced": true,
+  "installed_dashboard_api": true
+}

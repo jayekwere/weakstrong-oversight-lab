@@ -1,0 +1,1 @@
+{"kind":"openai","model":"SET_EXPLICIT_MODEL_ID","endpoint":"https://api.openai.com/v1/chat/completions","enabled":false,"max_requests":10,"max_tokens":100000,"max_spend_usd":0.0,"usd_per_million_tokens":1000.0}

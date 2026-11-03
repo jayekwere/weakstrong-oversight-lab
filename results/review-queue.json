@@ -1,0 +1,182 @@
+[
+  {
+    "id": "wso-distributed_risk-2-0",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-2-1",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-2-2",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-3-0",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-3-1",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-3-2",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-4-0",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-4-1",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-distributed_risk-4-2",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-2-0",
+    "difficulty": 2,
+    "risk": 0.7,
+    "reason": "seeded fixture judgment perturbation"
+  },
+  {
+    "id": "wso-authorized_work-2-1",
+    "difficulty": 2,
+    "risk": 0.7,
+    "reason": "seeded fixture judgment perturbation"
+  },
+  {
+    "id": "wso-authorized_work-2-2",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-3-0",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-3-1",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-3-2",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-4-0",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-4-1",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-authorized_work-4-2",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-1-0",
+    "difficulty": 1,
+    "risk": 0.5,
+    "reason": "mandatory classification evidence is missing"
+  },
+  {
+    "id": "wso-insufficient_evidence-1-1",
+    "difficulty": 1,
+    "risk": 0.5,
+    "reason": "mandatory classification evidence is missing"
+  },
+  {
+    "id": "wso-insufficient_evidence-1-2",
+    "difficulty": 1,
+    "risk": 0.5,
+    "reason": "mandatory classification evidence is missing"
+  },
+  {
+    "id": "wso-insufficient_evidence-2-0",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-2-1",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-2-2",
+    "difficulty": 2,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-3-0",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-3-1",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-3-2",
+    "difficulty": 3,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-4-0",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-4-1",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  },
+  {
+    "id": "wso-insufficient_evidence-4-2",
+    "difficulty": 4,
+    "risk": 0.5,
+    "reason": "dependency depth exceeds fixture reasoning budget"
+  }
+]
